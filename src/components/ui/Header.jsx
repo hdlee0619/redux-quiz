@@ -1,10 +1,10 @@
-import React from "react";
-import styled from "styled-components";
+import React from 'react';
+import styled from 'styled-components';
 
 const Header = () => {
   return (
     <StContainer>
-      <div>My Todo List</div>
+      <div>My Todo List : 12기 A반 이현동</div>
       <div>React</div>
     </StContainer>
   );
